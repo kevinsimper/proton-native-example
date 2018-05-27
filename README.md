@@ -8,3 +8,5 @@ https://proton-native.js.org/
 - `npm install`
 - `npm run build`
 - `npm start`
+
+![window](window.png)
